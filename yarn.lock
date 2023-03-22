@@ -7,6 +7,13 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-13.2.5-canary.12.tgz#37a2e8721adc78ee9def5dfd552e3d8c9b2c537d"
   integrity sha512-o/W+EXzUXri/uS0LUTLAWwjoCt2tSoyhqIMZRtgN2rmDeASyl3QgY3jkur6g4LzzXJn+m8ZxTX/4i+MmoP+KEQ==
 
+"@next/mdx@^13.2.4":
+  version "13.2.4"
+  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-13.2.4.tgz#055dd5928a488ad9cc6ced03aff5807ad48f0ac4"
+  integrity sha512-inl7u+OEa4Ok3uL052oa8EDw1bUkMGLVKzFfVBIgG19s29gxQvcWYzxa5t438J31ljApjh6Y5k4AD6yLaCAlQw==
+  dependencies:
+    source-map "^0.7.0"
+
 "@next/swc-darwin-arm64@13.2.5-canary.12":
   version "13.2.5-canary.12"
   resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-13.2.5-canary.12.tgz#fced7ce9d5363e8b81b91a71c2cdb77d6f0285cf"
@@ -176,6 +183,11 @@ source-map-js@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.2.tgz#adbc361d9c62df380125e7f161f71c826f1e490c"
   integrity sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==
+
+source-map@^0.7.0:
+  version "0.7.4"
+  resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.7.4.tgz#a9bbe705c9d8846f4e08ff6765acf0f1b0898656"
+  integrity sha512-l3BikUxvPOcn5E74dZiq5BGsTb5yEwhaTSzccU6t4sDOH8NWJCstKO5QT2CvtFoK6F0saL7p9xHAqHOlCPJygA==
 
 styled-jsx@5.1.1:
   version "5.1.1"
